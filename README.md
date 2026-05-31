@@ -15,12 +15,15 @@ The PhosphorJS Library
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/phosphor-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/phosphor-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/phosphor-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/phosphor-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/phosphor/badges/version.svg)](https://anaconda.org/conda-forge/phosphor)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/phosphor/badges/downloads.svg)](https://anaconda.org/conda-forge/phosphor)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-phosphor-green.svg)](https://anaconda.org/conda-forge/phosphor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/phosphor.svg)](https://anaconda.org/conda-forge/phosphor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/phosphor.svg)](https://anaconda.org/conda-forge/phosphor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/phosphor.svg)](https://anaconda.org/conda-forge/phosphor) |
 
 Installing phosphor
 ===================
